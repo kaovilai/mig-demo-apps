@@ -10,6 +10,7 @@ spec:
   resources:
     requests:
       storage: 10Gi
+  storageClassName: gp2-csi
 ---
 apiVersion: v1
 kind: Service
