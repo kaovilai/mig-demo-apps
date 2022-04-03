@@ -82,7 +82,7 @@
   },
   "dependencies": {
     "@patternfly/react-core": "^4.128.2",
-    "@patternfly/react-icons": "^4.10.11",
+    "@patternfly/react-icons": "^4.49.21",
     "@patternfly/react-styles": "^4.10.11",
     "@storybook/builder-webpack5": "^6.2.9",
     "axios": "^0.21.1",
