@@ -1,4 +1,4 @@
-FROM python:3.6
+FROM python:3.9.13
 
 EXPOSE 8080
 
